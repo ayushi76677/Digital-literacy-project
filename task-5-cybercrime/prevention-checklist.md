@@ -1,4 +1,4 @@
-Stay Safe Online Checklist:
+## Stay Safe Online Checklist:
 
 1. Do not click on suspicious links in emails or messages
 2. Always verify website URLs before entering personal information
@@ -9,6 +9,6 @@ Stay Safe Online Checklist:
 7. Regularly update your apps and devices for security
 8. Always check UPI payment details before confirming transactions
 
-For reporting cybercrime:
+## For reporting cybercrime:
 Website: cybercrime.gov.in
 Helpline: 1930
