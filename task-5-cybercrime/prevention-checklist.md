@@ -10,5 +10,5 @@
 8. Always check UPI payment details before confirming transactions
 
 ## For reporting cybercrime:
-Website: cybercrime.gov.in
-Helpline: 1930
+- Website: cybercrime.gov.in
+- Helpline: 1930
